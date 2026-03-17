@@ -1,0 +1,41 @@
+Employee_ID,Employee_Name,Designation,Department,Manager_ID,Level,Email,Phone,Location,Joining_Date
+1,Joseph Watson,CEO,Executive,,0,matthew62@jackson-thomas.com,001-257-830-2323x4477,Dennisville,2011-11-22
+2,Kimberly Hebert,Senior Engineer,Engineering,1.0,2,justin03@simmons-frazier.com,(058)277-7150,North Jessicabury,2016-09-29
+3,Andrew Baker,Associate,Marketing,1.0,2,derekferrell@yahoo.com,001-648-335-7614x43918,Hayeston,2023-12-12
+4,Dr. Tanya Tanner,Senior Engineer,Sales,1.0,4,connersusan@hotmail.com,001-946-632-6725x6893,Lake Ruben,2023-11-26
+5,Christopher Smith,Associate,IT,1.0,1,donnaallison@gmail.com,(120)054-6784,Smithport,2017-09-19
+6,Adam Roberts,Analyst,Engineering,3.0,3,cesarholder@gmail.com,363.494.5497,South Jordan,2022-11-13
+7,Amanda Hanson,Senior Engineer,Finance,6.0,4,williamsstanley@yahoo.com,609-320-8442x33751,Heathermouth,2021-01-16
+8,Victor Osborn,Engineer,Finance,2.0,3,craigcallahan@hotmail.com,043-268-7220x361,Potterbury,2024-02-08
+9,Laura Jackson,Director,IT,1.0,1,kaylee55@thompson-gutierrez.com,001-063-092-8174,South Danny,2020-01-01
+10,Dominique Warren,Analyst,Marketing,5.0,2,marysilva@gmail.com,+1-885-381-1297x216,East Tiffanyview,2024-09-05
+11,Lauren Phelps,Analyst,HR,6.0,4,aaronmack@yahoo.com,037-649-4455,South Douglasville,2019-11-18
+12,Matthew Walker,VP,IT,1.0,1,xgarcia@richardson.info,352.853.8125x07034,Morganberg,2016-01-25
+13,Donald Martinez,Director,Finance,9.0,2,jeffrey07@lane.com,(272)353-4415,West Sara,2019-11-07
+14,Deborah Miller,Analyst,Marketing,9.0,2,cholmes@yahoo.com,(597)984-9763,New Jaredbury,2023-11-17
+15,Tiffany Harvey,Engineer,Sales,8.0,4,xbradley@rivera.biz,828.756.3844x60490,Sarahburgh,2015-07-17
+16,Melissa Eaton,Associate,HR,5.0,2,johnhines@hall.com,457.888.7221x98315,Port Jordan,2017-11-29
+17,Kevin Wilkerson,Analyst,Operations,1.0,1,fowlermichael@riley-coleman.com,+1-363-419-2866,North Alexandrastad,2016-09-23
+18,Jennifer Butler,Engineer,Sales,6.0,4,karen13@carroll.com,578.285.3536,Christyberg,2017-04-24
+19,Michael Dunlap,Director,Finance,8.0,4,hansoncrystal@norman.biz,447.169.5824x32921,Sandraberg,2024-08-24
+20,Chelsea Cunningham,Associate,Marketing,16.0,3,jennifermartin@arias-patrick.info,(961)149-5382,New Angelaview,2025-03-10
+21,Luis Gonzales,Associate,Marketing,20.0,4,ogordon@hotmail.com,023-893-5210x320,Lake Laura,2018-07-01
+22,Andrew Herman,Senior Engineer,Finance,12.0,2,mitchellrussell@hotmail.com,082-024-9031,East Jenniferside,2019-02-10
+23,Brandon May,Director,HR,20.0,4,tina38@yahoo.com,455.524.1431,Tylerberg,2020-02-06
+24,Brian Vazquez,Engineer,Engineering,1.0,1,rthompson@gmail.com,+1-901-992-8399x135,Lake Katherinemouth,2022-12-29
+25,Mary Moody,Lead,Operations,1.0,1,crystalellis@gmail.com,841.689.8352x478,Lake Felicia,2016-02-14
+26,Jasmine Baker,VP,IT,6.0,4,jenniferreid@sanders.info,7011614411,New Jill,2019-01-11
+27,Renee Bell,VP,Finance,6.0,4,michaelle@yahoo.com,001-467-769-0634,Kevinburgh,2023-04-05
+28,Donna Bennett,Senior Engineer,HR,1.0,1,michaelvillegas@hotmail.com,+1-644-010-5435x598,Andrewston,2015-09-21
+29,Robert Caldwell,Senior Engineer,Operations,24.0,2,colliersamantha@rivera.info,641.581.9888,Benjaminland,2016-01-14
+30,Julie Harrell,Associate,Operations,1.0,1,elizabeth08@gilbert.com,+1-939-604-6782,Pageville,2017-06-08
+31,Lori Lawrence,Engineer,Finance,3.0,3,mindycox@hotmail.com,2826617182,South Thomas,2023-07-28
+32,Kyle Dawson,Analyst,Engineering,17.0,2,moorewilliam@hopkins.info,001-287-698-3177,New Nicoleside,2019-10-05
+33,Colleen Long,Manager,HR,12.0,2,derek02@yahoo.com,(369)169-6370,Nathanmouth,2022-06-07
+34,Regina Morton,Associate,IT,20.0,4,eric88@vargas.org,984.582.4459x849,West Richardview,2024-07-14
+35,Dr. Cody Roberts,Associate,Sales,8.0,4,anthony15@gmail.com,001-279-409-0917x5336,North Brianland,2018-03-19
+36,Felicia Martinez,Analyst,HR,1.0,1,jamieosborn@hotmail.com,7523828730,Sheliahaven,2022-02-04
+37,David Fields,Associate,Engineering,1.0,1,rblack@farmer-mitchell.com,+1-530-612-7841x28287,Sherriport,2022-08-12
+38,Steven Parker,Lead,IT,20.0,4,jamesrocha@smith.org,(265)691-9357,Lake Larry,2017-01-08
+39,Andrea Porter,Manager,Engineering,17.0,2,johnyoder@swanson.com,739-079-9612x280,Paulafort,2020-10-16
+40,Roy Johnson,VP,Finance,30.0,2,jimmysanders@yahoo.com,(220)070-1491x747,Port Sarahchester,2016-08-09
