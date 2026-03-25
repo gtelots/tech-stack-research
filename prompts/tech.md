@@ -58,7 +58,7 @@ Mục tiêu: **50+ diagrams** tổng cộng, trong đó **15-20 Sequence Diagram
 
 ### So sánh (file 02)
 
-- So sánh ít nhất **1-5 công cụ** cùng category
+- So sánh các công cụ cùng category
 - TCO 3 năm (license cost + infrastructure + operational)
 - Community health: GitHub stars, contributors, release frequency, corporate backing
 
